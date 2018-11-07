@@ -1,0 +1,1 @@
+# zapytanie-do-serwera
